@@ -9,11 +9,11 @@ Kontrolleren er tilkoblet
 - En singelpol bryter med tre posisjoner, midstit er nullstilt.
 - en elektromotor tilkoblet motorkontroller
 
-<img   width="100" src="https://skule.sormo.no/media/com_eshop/products/resized/image_630f3ccb8a287_7-230x230.jpg">
-<img  <img  <img  width="100" src="https://skule.sormo.no/media/com_eshop/products/resized/251-230x230.jpg">
-<img  width="100" src="https://skule.sormo.no/media/com_eshop/products/resized/image_5fb62f4ee622f_h2-230x230.jpg">
-<img <img width="100" src="https://skule.sormo.no/media/com_eshop/products/resized/ee-800x800.jpg">
-<img   width="100"  src="https://skule.sormo.no/media/com_eshop/products/resized/image_606de146aec47_35-230x230.jpg">
+<img   width="100" src="https://skule.sormo.no/media/com_eshop/products/resized/image_630f3ccb8a287_7-230x230.jpg"> 
+<img   width="100" src="https://skule.sormo.no/media/com_eshop/products/resized/251-230x230.jpg"> 
+<img  width="100" src="https://skule.sormo.no/media/com_eshop/products/resized/image_5fb62f4ee622f_h2-230x230.jpg"> 
+<img  width="100" src="https://skule.sormo.no/media/com_eshop/products/resized/ee-800x800.jpg"> 
+<img  width="100"  src="https://skule.sormo.no/media/com_eshop/products/resized/image_606de146aec47_35-230x230.jpg">
 
 # Bruksmåte
 
